@@ -26,5 +26,10 @@
   <code>
     <a href="https://www.linkedin.com/in/ismailmertdemirci/" title="My LinkedIn Profile"><img height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/linkedin.svg"> LinkedIn</a></code>
 </h5>
+<h5 align="center">
+  <code>
+    <a href="https://www.discord.com/in/ismailmertdemirci/" title="My Discord Profile"><img height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/discord.png"> LinkedIn</a></code>
+</h5>
+
 
 
