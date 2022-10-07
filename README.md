@@ -18,7 +18,7 @@
   <code><img title="Html5" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/HTML5.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/Postgresql.svg"></code>
   <code><img title="GitHub" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/github.svg"></code>
-  <code><img title="Hibernate" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/hibernate.png"></code>
+  <code><img title="Selenium" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/selenium.png"></code>
   <code><img title="Lambda" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/lambda2.png"></code>
   <code><img title="CSS" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/CSS3.png"></code>
   <code><img title="JavaScript" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/js.png"></code>
@@ -28,5 +28,5 @@
 <hr>
 <h5 align="center">
   <code>
-    <a href="www.linkedin.com/in/ismailmertdemirci/" title="My LinkedIn Profile"><img height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/tree/main/images/linkedin.svg"> LinkedIn</a></code>
+    <a href="www.linkedin.com/in/ismailmertdemirci/" title="My LinkedIn Profile"><img height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/linkedin.svg"> LinkedIn</a></code>
 </h5>
