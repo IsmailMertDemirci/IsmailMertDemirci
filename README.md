@@ -24,5 +24,7 @@
 <hr>
 <h5 align="center">
   <code>
-    <a href="www.linkedin.com/in/ismailmertdemirci/" title="My LinkedIn Profile"><img height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/ismailmertdemirci/" title="My LinkedIn Profile"><img height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/linkedin.svg%22%3E LinkedIn</a></code>
 </h5>
+
+
