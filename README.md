@@ -28,7 +28,7 @@
 </h5>
 <h5 align="center">
   <code>
-    <a href="" title="My Discord Profile"><img height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/discord.png"> 6753</a></code>
+    <img height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/discord.png"> 6753</code>
 </h5>
 
 
