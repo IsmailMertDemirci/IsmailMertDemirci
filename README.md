@@ -3,7 +3,7 @@
 <h5 align="center">
   Hi, I'm Ismail Mert DEMIRCI, Software Test Engineer.
   
-  📫 You reach me: <a href="mailto: ismailmertdemirci@gmail.com">ismailmertdemirci@gmail.com</a>
+  📫 You can reach me: <a href="mailto: ismailmertdemirci@gmail.com">ismailmertdemirci@gmail.com</a>
   </p>
   
   <hr>
