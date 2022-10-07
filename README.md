@@ -11,11 +11,11 @@
 <br>
 <p align="center">
  <code><img title="Problem Solving" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/problemSolving.png"></code>
-  <code><img title="TestNG" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/TestNG.svg"></code>
-  <code><img title="Junit" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/Junit.svg"></code>
+  <code><img title="TestNG" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/TestNG.png"></code>
+  <code><img title="Junit" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/Junit.png"></code>
   <code><img title="Java" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/java-original.svg"></code>
   <code><img title="Git" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/git-original.svg"></code>
-  <code><img title="Cucumber" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/cucumber.svg"></code>
+  <code><img title="Cucumber" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/cucumber.png"></code>
   <code><img title="PostgreSQL" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/Postgresql.svg"></code>
   <code><img title="GitHub" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/github.svg"></code>
   <code><img title="Selenium" height="25" src="https://github.com/IsmailMertDemirci/IsmailMertDemirci/blob/main/images/Selenium.png"></code>
